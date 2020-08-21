@@ -9,7 +9,7 @@ name: Rubén Resino
 description: Developer for pleasure and Tech Lead for money.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/avatar.jpg
+avatar: https://rresino.github.io/blog/images/avatar.jpg
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://rresino.github.io/blog/"
+baseurl: "https://rresino.github.io/blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
