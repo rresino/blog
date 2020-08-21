@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Developer for pleasure and Tech Lead for money.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a Scala and functional software developer.
+
+I usually play with Big Data, Microservices, Kubernetes and APIs.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+<a href="https://twitter.com/rresino" data-screen-name="@rresino">
+Message me at @rresino</a>
