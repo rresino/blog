@@ -6,13 +6,8 @@ permalink: /about/
 
 # Developer for pleasure and Tech Lead for money.
 
-### More Information
-
-I'm a Scala and functional software developer.
-
-I usually play with Big Data, Microservices, Kubernetes and APIs.
-
-### Contact me
-
-<a href="https://twitter.com/rresino" data-screen-name="@rresino">
-Message me at @rresino</a>
+- 👋 Hi, I’m Rubén Resino @rresino 
+- 👀 I’m interested in Tecnology, development, JVM, Scala, Java, Kubernetes, Big data, APIs ...
+- 🌱 I’m currently learning Software Development and paternity.
+- 💞️ I’m looking to collaborate on JVM, open source projects or how to help junior developers.
+- 📫 You can reach me on [Twitter @rresino](https://twitter.com/rresino)
