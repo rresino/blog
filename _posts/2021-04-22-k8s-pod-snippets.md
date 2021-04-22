@@ -4,8 +4,6 @@ title: Kubernetes - Pods - Snippets
 categories: [k8s, pod]
 ---
 
-# Kubernetes - PODs
-
 It's my personal compilation of quick snippets for Kubernetes and Pods
 
 ## Get all pods
